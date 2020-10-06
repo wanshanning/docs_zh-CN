@@ -1,6 +1,6 @@
-# BentoBox
+# 便当盒 | BentoBox
 
-BentoBox is a powerful Bukkit library plugin that provides core features for island-style games like SkyBlock, AcidIsland, OneBlock and others. It provides features such a island creation, team management, protection, etc. These games and features are added to BentoBox via addons that are like mini-plugins. Admins can customize their server to have exactly what games and features they want.
+便当盒是一个强大的Bukkit/Spigot插件，它为原版空岛、酸岛、单方块空岛等空岛游戏提供核心功能。它提供了诸如岛屿生成/保护、团队管理等功能。These games and features are added to BentoBox via addons that are like mini-plugins. Admins can customize their server to have exactly what games and features they want.
 
 ## Supporting BentoBox
 
